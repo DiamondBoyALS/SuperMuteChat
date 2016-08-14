@@ -1,0 +1,9 @@
+main: ml.voltiac.bukkit.supermute.Main
+name: SuperMuteChat
+version: 1.1
+prefix: SuperMuteChat
+commands:
+ muteChat:
+    description: Mutes chat with password
+ unMuteChat:
+    description: Unmutes chat with password
