@@ -1,2 +1,2 @@
 # SuperMuteChat
-Project murged with MetroChatManager (OptiDevs/MetroChatManager)
+Project murged with OptiChat (OptiDevs/OptiChat)
